@@ -1,5 +1,5 @@
 body {
-    background: #CCCCCC
+    background: #bba6a6
 }
 
 h1 {
@@ -9,9 +9,9 @@ p {
     text-align: center;
 }
 #missao {
-    font-size: 20px
+    font-size: 40px
 }
 
 em strong {
-    color: #FF0000;
+    color: #792929;
 }
